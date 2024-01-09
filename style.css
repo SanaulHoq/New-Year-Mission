@@ -1,0 +1,136 @@
+.hero-image {
+    background:  url("B9A1-New-Year-New-Mission/resources/Banner Image.png");
+    flex-shrink: 0;
+    border-radius: 10px 10px 10px 10px;
+    width: 1220px;
+    height: 620px; 
+    padding: 10px 10px;
+    background-repeat: no-repeat;
+  
+}
+.container{
+    text-align: center;
+
+}
+.hero-text {
+    text-align: center;
+    color: black;
+    font-size: 32px;
+    padding: 15%;
+    
+}
+.top-new {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.off{
+    text-align: center;
+    color: #F00;
+    font-size: 88px;
+    font-family: Inter;
+    font-style: normal;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.holiday {
+    text-align: center;
+    color: #F00;
+    font-size: 24px;
+    font-family: Inter;
+    font-style: normal;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.all {
+    text-align: center;
+    color: #070211;
+    font-size: 48px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    padding: 0px;
+    padding-bottom: 2px;
+    margin: 0px;
+    margin-top: 2px;
+}
+.new-year {
+    width: 800px;
+    height: 500px;
+    text-align: center;
+    margin-left: 280px;
+}
+.welcome {
+    background-image:  url("B9A1-New-Year-New-Mission/resources/Group 70.png"), url("B9A1-New-Year-New-Mission/resources/Vectorrr.png");
+
+    background-position: right center, left top; 
+    background-repeat: no-repeat, repeat;
+    border-radius: 10px 10px 10px 10px;
+    
+    padding: 15px;
+   
+}
+.midnight {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 58px; /* 137.5% */
+    margin-left: 80px;
+
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+    margin-top: 160px;
+}
+.smalltext {
+    color: white;
+    margin-left: 80px;
+
+    padding-bottom: 22px;
+    margin-bottom: 22px;
+    margin-top: 22px;
+}
+.join {
+    color: white;
+    margin-left: 100px;
+}
+.place {
+    background-image: linear-gradient (180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    ]}
+    .park{
+        color:#f00;
+        ont-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 6px; /* 175% */
+text-transform: capitalize;
+    }
+    .date{
+        color:#f00;
+        ont-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 6px; /* 175% */
+text-transform: capitalize;
+    }
+    .time{
+        color:#f00;
+        ont-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 6px; /* 175% */
+text-transform: capitalize;
+    }
